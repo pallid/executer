@@ -18,7 +18,6 @@ cd /d "C:\projects\executer\src"
 пример cURL:
 
 ```bash
-
 curl -X POST \
   http://localhost:8087 \
   -H 'Content-Type: application/json' \
